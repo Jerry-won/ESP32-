@@ -1,0 +1,23 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"esp_wifi.h": "c",
+			"tcp_client.h": "c",
+			"esp_system.h": "c",
+			"main.h": "c",
+			"*.ipp": "c",
+			"freertos.h": "c",
+			"*.tcc": "c",
+			"dht11.h": "c",
+			"mqtt_tcp.h": "c",
+			"my_sntp.h": "c",
+			"*.inc": "c",
+			"chrono": "c"
+		}
+	}
+}
